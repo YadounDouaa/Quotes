@@ -1,16 +1,28 @@
-# quotes
+# My Quotes
 
-A new Flutter project.
+![GitHub license](https://img.shields.io/github/license/open-minds/Train_Track_Repair_GGJ2020.svg)
+![Team Open Minds](https://img.shields.io/badge/Members%20of-Team%20Open%20Minds-blue.svg?color=0099CC)
 
-## Getting Started
+This is a basic flutter project 
 
-This project is a starting point for a Flutter application.
+## Screenshots:
 
-A few resources to get you started if this is your first Flutter project:
+<div>
+	<img  src="ScreenShot\quote.jpg" style=" ">
+</div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+	
+## Tools used:
+* Vs Code (text editor)
+* Dart (logic)
+
+
+## Team:
+This project was made by: 
+* [Yadoun Douaa(https://github.com/YadounDouaa)
+
+
+## Contribution:
+Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
